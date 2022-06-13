@@ -36,7 +36,7 @@ public class App_01Test {
 	public void testMultiple() {
 		
 		int actual = app.multiple(5, 10);
-		int expected = 50;
+		int expected = 49;
 		assertEquals(expected, actual);
 		
 	}
